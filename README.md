@@ -19,6 +19,7 @@ To do this, I filtered the cleaned dataset and selected the columns with the mon
 
 #### Results:
 ![Vizualization of the average GMV trend by month](images/avGMV.png)
+
 *line graph visualizing the average GMV trend by month for DataFlow Inc., 2024.*
 
 #### Insights:
@@ -30,6 +31,7 @@ To do this, I filtered the cleaned dataset and selected the columns with month n
 
 #### Results:
 ![Visualization of total GMV per month](images/totalGMV.png)
+
 *bar chart showing the sum/raw total GMV breakdown per month for DataFlow Inc., 2024.*
 
 #### Insights:
@@ -42,6 +44,7 @@ To do this, I filtered the cleaned dataset and selected the columns with the cus
 
 #### Results:
 ![Visualization of total GMV per Customer segment](images/custSegGMV.png)
+
 *bar chart showing the sum/raw total GMV breakdown per Customer segment for DataFlow Inc., 2024.*
 
 #### Insights:
@@ -53,6 +56,7 @@ To do this, I filtered the cleaned dataset and grouped the payment methods by th
 
 #### Results:
 ![Visualization of Return rate by payment methods](images/rrPay.png)
+
 *bar chart showing the return rate breakdown per payment method for DataFlow Inc., 2024.*
 
 #### Insights: 
@@ -65,6 +69,7 @@ To do this, I filtered the cleaned dataset, selected and grouped the customer se
 
 #### Results:
 ![Visualization of Return rate by customer segements](images/rrCustSeg.png)
+
 *bar chart showing the return rate breakdown per Customer segment for DataFlow Inc., 2024.*
 
 #### Insights:
@@ -76,6 +81,7 @@ To do this, I filtered and selected the appropraite columns needed for the analy
 
 #### Results:
 ![Visualization of gross margin distributionn by customer segment](images/gmCustSeg.png)
+
 *boxplot showing the Gross margin distribution by Customer segment for DataFlow Inc., 2024.*
 
 #### Insights:
