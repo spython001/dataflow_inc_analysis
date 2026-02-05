@@ -20,7 +20,7 @@ To do this, I filtered the cleaned dataset and selected the columns with the mon
 #### Results:
 ![Vizualization of the average GMV trend by month](images/avGMV.png)
 
-*linegraph visualizing the average GMV trend by month for DataFlow Inc., 2024.*
+*linegraph visualizing the average GMV trend by month, 2024.*
 
 #### Insights:
 - Highest average GMV in September while lowest in June
@@ -32,7 +32,7 @@ To do this, I filtered the cleaned dataset and selected the columns with month n
 #### Results:
 ![Visualization of total GMV per month](images/totalGMV.png)
 
-*barchart showing the sum/raw total GMV breakdown per month for DataFlow Inc., 2024.*
+*barchart showing the sum/raw total GMV breakdown per month, 2024.*
 
 #### Insights:
 - Highest total GMV by raw count (sum) is found in December and lowest in June
@@ -45,7 +45,7 @@ To do this, I filtered the cleaned dataset and selected the columns with the cus
 #### Results:
 ![Visualization of total GMV per Customer segment](images/custSegGMV.png)
 
-*barchart showing the sum/raw total GMV breakdown per Customer segment for DataFlow Inc., 2024.*
+*barchart showing the sum/raw total GMV breakdown per Customer segment, 2024.*
 
 #### Insights:
 - Highest total GMV here is found in Platinum by a small margin while Premium recored the lowest
@@ -57,7 +57,7 @@ To do this, I filtered the cleaned dataset and grouped the payment methods by th
 #### Results:
 ![Visualization of Return rate by payment methods](images/rrPay.png)
 
-*barchart showing the return rate breakdown per payment method for DataFlow Inc., 2024.*
+*barchart showing the return rate breakdown per payment method, 2024.*
 
 #### Insights: 
 - Transactions made by Credit cards have a higher return rates, 3x more, than other payment methods
@@ -70,7 +70,7 @@ To do this, I filtered the cleaned dataset, selected and grouped the customer se
 #### Results:
 ![Visualization of Return rate by customer segements](images/rrCustSeg.png)
 
-*barchart showing the return rate breakdown per Customer segment for DataFlow Inc., 2024.*
+*barchart showing the return rate breakdown per Customer segment, 2024.*
 
 #### Insights:
 - Highest return rates for customer segment is found in Standard customer types while the Platinum customer types remains stable
@@ -82,7 +82,7 @@ To do this, I filtered and selected the appropraite columns needed for the analy
 #### Results:
 ![Visualization of gross margin distributionn by customer segment](images/gmCustSeg.png)
 
-*boxplot showing the Gross margin distribution by Customer segment for DataFlow Inc., 2024.*
+*boxplot showing the Gross margin distribution by Customer segment, 2024.*
 
 #### Insights:
 - While the Standard customer segment has a slightly lower total GMV than the Platinum's (as per the analysis: **visualization 3**), the Gross margin distribution chart shows that the Standard segment has the highest median gross margin, of above 0.5.
