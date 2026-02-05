@@ -18,7 +18,7 @@
 To do this, I filtered the cleaned dataset and selected the columns with the month names and amount of orders, then used seaborn to make a barplot from the dataset
 
 #### Results:
-![Vizualization of the average GMV trend by month](images\avGMV.png)
+![Vizualization of the average GMV trend by month](images/avGMV.png)
 *line graph visualizing the average GMV trend by month for DataFlow Inc., 2024.*
 
 #### Insights:
@@ -29,7 +29,7 @@ To do this, I filtered the cleaned dataset and selected the columns with the mon
 To do this, I filtered the cleaned dataset and selected the columns with month names and orders. I grouped the sum of these order amount by the month names column. To get the raw sum per month in the descending order, I sorted the sum total of the order amounts per month.
 
 #### Results:
-![Visualization of total GMV per month](images\totalGMV.png)
+![Visualization of total GMV per month](images/totalGMV.png)
 *bar chart showing the sum/raw total GMV breakdown per month for DataFlow Inc., 2024.*
 
 #### Insights:
@@ -41,7 +41,7 @@ To do this, I filtered the cleaned dataset and selected the columns with month n
 To do this, I filtered the cleaned dataset and selected the columns with the customer segment and amount of orders. I grouped the sum of these orders by the Customer segment column, then sorted the values in descending order.
 
 #### Results:
-![Visualization of total GMV per Customer segment](images\custSegGMV.png)
+![Visualization of total GMV per Customer segment](images/custSegGMV.png)
 *bar chart showing the sum/raw total GMV breakdown per Customer segment for DataFlow Inc., 2024.*
 
 #### Insights:
@@ -52,7 +52,7 @@ To do this, I filtered the cleaned dataset and selected the columns with the cus
 To do this, I filtered the cleaned dataset and grouped the payment methods by the sum of returned orders. I proceeded to divide the values by the total number of orders to get the return rate of each payment method
 
 #### Results:
-![Visualization of Return rate by payment methods](images\rrPay.png)
+![Visualization of Return rate by payment methods](images/rrPay.png)
 *bar chart showing the return rate breakdown per payment method for DataFlow Inc., 2024.*
 
 #### Insights: 
@@ -64,7 +64,7 @@ To do this, I filtered the cleaned dataset and grouped the payment methods by th
 To do this, I filtered the cleaned dataset, selected and grouped the customer segments by the sum of returned orders. I proceeded to divide the values by the total number of orders to get the return rate of each payment method
 
 #### Results:
-![Visualization of Return rate by customer segements](images\rrCustSeg.png)
+![Visualization of Return rate by customer segements](images/rrCustSeg.png)
 *bar chart showing the return rate breakdown per Customer segment for DataFlow Inc., 2024.*
 
 #### Insights:
@@ -75,7 +75,7 @@ To do this, I filtered the cleaned dataset, selected and grouped the customer se
 To do this, I filtered and selected the appropraite columns needed for the analysis. I proceeded to calculate the gross margin by dividing the difference between the amount of orders and cost, by the amount of orders. Finally, I plotted the customer segemnt against the gross margin
 
 #### Results:
-![Visualization of gross margin distributionn by customer segment](images\gmCustSeg.png)
+![Visualization of gross margin distributionn by customer segment](images/gmCustSeg.png)
 *boxplot showing the Gross margin distribution by Customer segment for DataFlow Inc., 2024.*
 
 #### Insights:
